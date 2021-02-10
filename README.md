@@ -37,4 +37,4 @@ En caso de que quieras contactarme, proporciono enlaces en el programa para hace
 
 PD: También proporciono un enlace de donación de PayPal en caso de que desee ayudarme a crecer y motivarme más en este campo.
 
-Saludos cordiales, Henfry.
+Saludos cordiales.
