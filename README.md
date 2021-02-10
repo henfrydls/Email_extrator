@@ -35,6 +35,6 @@ Este es mi primer programa completo en Python. Espero que te ayude mucho. Tambi�
 
 En caso de que quieras contactarme, proporciono enlaces en el programa para hacerlo.
 
-PD: También proporciono un enlace de donación de PayPal en caso de que desee ayudarme a crecer y motivarme mas en este campo.
+PD: También proporciono un enlace de donación de PayPal en caso de que desee ayudarme a crecer y motivarme más en este campo.
 
 Saludos cordiales, Henfry.
