@@ -6,8 +6,9 @@ This program is able to extract emails from pdf, json and txt files, some websit
 At the end you have the option to export it as a pdf, xlsm, docx, txt, json and csv.
 
 I separated the program into two pieces of code, in case you don't care about the visuals of the program and only need a specific part of it. Only some websites are available
-to work with this program because some may need the use of cookies to give you a result back (Such a Google). All error related to web pages will result in an Error pop up window
-saying "Make sure you have and active internet connection", as I mention before, also error related to Cookies needs.
+to work with this program because some may need the use of cookies to give you a result back (Such a Google). All error related to web pages will result in an Error pop up window saying "Make sure you have and active internet connection", as I mention before, also error related to Cookies needs.
+
+As I used mutiple libraries in order to do this program, and you may not have all of them installed on your pc, In case you only want the program itself you can download it. I compiled everything in a .exe file, which is also in this repository.
 
 My recommendation is to first save the file you want to extract the emails from and then process it into the program. You can easily do this by "printing" the web page to PDF (Ctrl + P).
 
@@ -24,9 +25,9 @@ Best regards, Henfry.
 Este programa es capaz de extraer correos electrónicos de archivos pdf, json y txt, algunos sitios web, luego le muestra qué dominios se encontraron y le pregunta cuál desea exportar.
 Al final tienes la opción de exportarlo como pdf, xlsm, docx, txt, json y csv.
 
-Separé el programa en dos partes de código, en caso de que no le importen las parte visual del programa y solo necesite una parte en específico. Solo algunos sitios web están disponibles para
-trabajar con este programa debido a que pueden necesitar el uso de cookies para devolverle un resultado (Google, por ejempo). Todos los errores relacionados con páginas web darán lugar a una ventana emergente de error.
-diciendo "Asegúrate de tener una conexión a Internet activa", como mencioné antes, también error relacionado con las necesidades de Cookies.
+Separé el programa en dos partes de código, en caso de que no le importen las parte visual del programa y solo necesite una parte en específico. Solo algunos sitios web están disponibles para trabajar con este programa debido a que pueden necesitar el uso de cookies para devolverle un resultado (Google, por ejempo). Todos los errores relacionados con páginas web darán lugar a una ventana emergente de error diciendo "Asegúrate de tener una conexión a Internet activa", como mencioné antes, también error relacionado con las necesidades de Cookies.
+
+Como utilicé varias bibliotecas para hacer este programa, y es posible que no las tengas todas instaladas en tu PC, en caso de que solo quieras el programa en sí, puedes descargarlo. Compilé todo en un archivo .exe, que también se encuentra en esta carpeta.
 
 Mi recomendación es que primero guarde el archivo del que desea extraer los correos electrónicos y luego lo procese en el programa. Puede hacer esto fácilmente "imprimiendo" la página web a PDF (Ctrl + P).
 
