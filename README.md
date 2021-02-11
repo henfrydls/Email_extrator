@@ -41,3 +41,12 @@ En caso de que quieras contactarme, proporciono enlaces en el programa para hace
 PD: También proporciono un enlace de donación de PayPal en caso de que desee ayudarme a crecer y motivarme más en este campo.
 
 Saludos cordiales.
+
+---------------------------------------------------------
+Iconos diseñado por www.freepik.com from www.flaticon.es
+
+Contact me:
+Email: newswebstar@gmail.com
+Stackoverflow: https://stackoverflow.com/users/14391986/henfry-de-los-santos
+
+Donate: http://paypal.me/henfrydls
